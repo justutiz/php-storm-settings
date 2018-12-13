@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_TEXT" value="true" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
