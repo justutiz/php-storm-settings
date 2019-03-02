@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7650950e-8dce-4b32-b3b6-0b2162ba71a5" name="kk.lt" url="http://kalnieciuparkonamai.lt">
+        <fileTransfer host="ftp.kk.lt" port="21" rootFolder="/domains/kalnieciuparkonamai.lt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
