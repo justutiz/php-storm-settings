@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
