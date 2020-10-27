@@ -7,7 +7,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php@7.2/7.2.13/bin/php" id="b062b32c-814e-45b4-89ef-931117db588b" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter id="b062b32c-814e-45b4-89ef-931117db588b" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.13/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -347,5 +347,8 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
   </component>
 </application>
