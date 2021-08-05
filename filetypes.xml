@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list=".dependency-info;CVS;" />
+    <ignoreFiles list=".dependency-info;CVS" />
     <extensionMap>
       <mapping pattern="Services/Auth/SocialAccount.php" type="AUTO_DETECTED" />
       <mapping pattern="SendSmsService.php" type="PLAIN_TEXT" />
