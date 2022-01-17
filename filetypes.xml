@@ -3,6 +3,7 @@
     <ignoreFiles list=".dependency-info;CVS" />
     <extensionMap>
       <mapping pattern="Services/Auth/SocialAccount.php" type="AUTO_DETECTED" />
+      <mapping pattern="unzip" type="AUTO_DETECTED" />
       <mapping pattern="SendSmsService.php" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
