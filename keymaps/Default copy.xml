@@ -19,6 +19,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
