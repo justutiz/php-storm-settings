@@ -1,0 +1,8 @@
+<keymap version="1" name="Sublime Text (macOS) copy 1" parent="Sublime Text (Mac OS X)">
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="ReformatCode" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+</keymap>
