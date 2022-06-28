@@ -3,6 +3,6 @@
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="ReformatCode" />
   <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
 </keymap>
