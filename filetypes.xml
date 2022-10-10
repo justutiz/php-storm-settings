@@ -3,8 +3,6 @@
     <ignoreFiles list=".dependency-info;CVS" />
     <extensionMap>
       <mapping pattern="RongyunPlatformTokenService.php" type="AUTO_DETECTED" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="SendSmsService.php" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -13,6 +11,8 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="SendSmsService.php" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
