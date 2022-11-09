@@ -3,7 +3,6 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="useMaterialFont" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -13,13 +12,12 @@
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="customSidebarHeight" value="21" />
-    <option name="tabOpacity" value="49" />
     <option name="treeFontSize" value="14" />
     <option name="indicatorThickness" value="5" />
     <option name="settingsSelectedTab" value="2" />
-    <option name="accentColor" value="3f3260" />
+    <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="90024ed:1674bc3d434:-8000" />
-    <option name="version" value="7.9.0" />
+    <option name="version" value="7.14.2" />
   </component>
 </application>
